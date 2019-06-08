@@ -1,13 +1,11 @@
-#include <cmath>
-#include <cstdio>
-#include <vector>
 #include <iostream>
-#include <algorithm>
+
 using namespace std;
+
 int main() {
-    string input_string; 
-	getline(cin, input_string); 
-	cout << "Hello, World." << endl;
-    cout << input_string;
-    return 0;
+   string inputString;
+   getline(cin, inputString);
+   cout << "Hello, World." << endl;
+   cout << inputString;
+   return 0;
 }

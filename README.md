@@ -9,6 +9,7 @@ The repository covers all the basic topics of programming languages. Try a new c
 - [Day 0 - Hello, World.](https://github.com/geekayush/30daysofcode/tree/master/Day0-HelloWorld)
 - [Day 1 - Data Types](https://github.com/geekayush/30daysofcode/tree/master/Day1-DataTypes)
 - [Day 2 - Operators](https://github.com/geekayush/30daysofcode/tree/master/Day2-Operators)
+- [Day 3 - Conditional Statements](https://github.com/geekayush/30daysofcode/tree/master/Day3-ConditionalStatements)
 
 ##### How to contribute?
 

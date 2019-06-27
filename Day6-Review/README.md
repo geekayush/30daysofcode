@@ -1,3 +1,5 @@
+# Day 6 - Review
+
 ## Objective 
 Today we're expanding our knowledge of Strings and combining it with what we've already learned about loops.
 

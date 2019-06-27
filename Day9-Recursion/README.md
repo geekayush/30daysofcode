@@ -1,3 +1,5 @@
+# Day 9 - Recursion
+
 ## Objective 
 Today, we're learning and practicing an algorithmic concept called Recursion.
 

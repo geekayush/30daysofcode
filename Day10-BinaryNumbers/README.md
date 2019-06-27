@@ -1,3 +1,5 @@
+# Day 10 - Binary Numbers
+
 ## Objective 
 Today, we're working with binary numbers.
 

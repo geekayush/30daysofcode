@@ -1,3 +1,5 @@
+# Day 7 - Arrays
+
 ## Objective 
 Today, we're learning about the Array data structure.
 

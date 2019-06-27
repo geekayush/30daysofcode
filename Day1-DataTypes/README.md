@@ -1,3 +1,5 @@
+# Day 1 - Data Types
+
 ## Objective 
 Today, we're discussing data types.
 

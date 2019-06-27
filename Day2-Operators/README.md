@@ -1,3 +1,5 @@
+# Day 2 - Operators
+
 ## Objective 
 In this challenge, you'll work with arithmetic operators.
 

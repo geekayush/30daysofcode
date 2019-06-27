@@ -14,7 +14,7 @@ The repository covers all the basic topics of programming languages. Try a new c
 - [Day 5 - Loops](./Day5-Loops/README.md)
 - [Day 6 - Review](./Day6-Review/README.md)
 - [Day 7 - Arrays](./Day7-Arrays/README.md)
-- [Day 8 - Dictionaries&Maps](./Day8-Dictionaries&Maps/README.md)
+- [Day 8 - Dictionaries and Maps](./Day8-Dictionaries&Maps/README.md)
 - [Day 9 - Recursion](./Day9-Recursion/README.md)
 - [Day 10 - Binary Numbers](./Day10-BinaryNumbers/README.md)
 

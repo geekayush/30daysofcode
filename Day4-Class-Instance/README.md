@@ -1,3 +1,5 @@
+# Day 4 - Class vs. Instance
+
 ## Objective 
 In this challenge, we're going to learn about the difference between a class and an instance; because this is an Object Oriented concept, it can be done only in certain languages.
 

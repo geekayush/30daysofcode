@@ -1,3 +1,5 @@
+# Day 0 - Hello, World.
+
 ## Objective 
 In this challenge, some basic concepts that will get you started with this series are reviewed. You will need to use the same (or similar) syntax to read input and write output in challenges.
 

@@ -16,6 +16,7 @@ The repository covers all the basic topics of programming languages. Try a new c
 - [Day 7 - Arrays](https://github.com/geekayush/30daysofcode/tree/master/Day7-Arrays)
 - [Day 8 - Dictionaries&Maps](https://github.com/geekayush/30daysofcode/tree/master/Day8-Dictionaries&Maps)
 - [Day 9 - Recursion](https://github.com/geekayush/30daysofcode/tree/master/Day9-Recursion)
+- [Day 10 - Binary Numbers](https://github.com/geekayush/30daysofcode/tree/master/Day10-BinaryNumbers)
 
 ##### How to contribute?
 

@@ -16,10 +16,11 @@ After the n lines of phone book entries, there are an unknown number of lines of
 Note: Names consist of lowercase English alphabetic letters and are first names only.
 
 ## Constraints
-```
+
+<code>
 1<=n<=10<sup>5</sup>
 1<=queries<=10<sup>5</sup>
-```
+</code>
 
 ## Output Format
 ```

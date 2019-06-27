@@ -6,17 +6,17 @@ The repository covers all the basic topics of programming languages. Try a new c
 
 ##### Index
 
-- [Day 0 - Hello, World.](https://github.com/geekayush/30daysofcode/tree/master/Day0-HelloWorld)
-- [Day 1 - Data Types](https://github.com/geekayush/30daysofcode/tree/master/Day1-DataTypes)
-- [Day 2 - Operators](https://github.com/geekayush/30daysofcode/tree/master/Day2-Operators)
-- [Day 3 - Conditional Statements](https://github.com/geekayush/30daysofcode/tree/master/Day3-ConditionalStatements)
-- [Day 4 - Class vs. Instance](https://github.com/geekayush/30daysofcode/tree/master/Day4-Class-Instance)
-- [Day 5 - Loops](https://github.com/geekayush/30daysofcode/tree/master/Day5-Loops)
-- [Day 6 - Review](https://github.com/geekayush/30daysofcode/tree/master/Day6-Review)
-- [Day 7 - Arrays](https://github.com/geekayush/30daysofcode/tree/master/Day7-Arrays)
-- [Day 8 - Dictionaries&Maps](https://github.com/geekayush/30daysofcode/tree/master/Day8-Dictionaries&Maps)
-- [Day 9 - Recursion](https://github.com/geekayush/30daysofcode/tree/master/Day9-Recursion)
-- [Day 10 - Binary Numbers](https://github.com/geekayush/30daysofcode/tree/master/Day10-BinaryNumbers)
+- [Day 0 - Hello, World.](./Day0-HelloWorld/README.md)
+- [Day 1 - Data Types](./Day1-DataTypes/README.md)
+- [Day 2 - Operators](./Day2-Operators/README.md)
+- [Day 3 - Conditional Statements](./Day3-ConditionalStatements/README.md)
+- [Day 4 - Class vs. Instance](./Day4-Class-Instance/README.md)
+- [Day 5 - Loops](./Day5-Loops/README.md)
+- [Day 6 - Review](./Day6-Review/README.md)
+- [Day 7 - Arrays](./Day7-Arrays/README.md)
+- [Day 8 - Dictionaries&Maps](./Day8-Dictionaries&Maps/README.md)
+- [Day 9 - Recursion](./Day9-Recursion/README.md)
+- [Day 10 - Binary Numbers](./Day10-BinaryNumbers/README.md)
 
 ##### How to contribute?
 

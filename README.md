@@ -13,6 +13,7 @@ The repository covers all the basic topics of programming languages. Try a new c
 - [Day 4 - Class vs. Instance](https://github.com/geekayush/30daysofcode/tree/master/Day4-Class-Instance)
 - [Day 5 - Loops](https://github.com/geekayush/30daysofcode/tree/master/Day5-Loops)
 - [Day 6 - Review](https://github.com/geekayush/30daysofcode/tree/master/Day6-Review)
+- [Day 7 - Arrays](https://github.com/geekayush/30daysofcode/tree/master/Day7-Arrays)
 
 ##### How to contribute?
 

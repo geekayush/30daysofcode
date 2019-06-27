@@ -12,6 +12,7 @@ The repository covers all the basic topics of programming languages. Try a new c
 - [Day 3 - Conditional Statements](https://github.com/geekayush/30daysofcode/tree/master/Day3-ConditionalStatements)
 - [Day 4 - Class vs. Instance](https://github.com/geekayush/30daysofcode/tree/master/Day4-Class-Instance)
 - [Day 5 - Loops](https://github.com/geekayush/30daysofcode/tree/master/Day5-Loops)
+- [Day 6 - Review](https://github.com/geekayush/30daysofcode/tree/master/Day6-Review)
 
 ##### How to contribute?
 
